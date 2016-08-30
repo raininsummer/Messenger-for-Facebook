@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="navigation_drawer_open">Mở menu điều hướng</string>
+    <string name="navigation_drawer_close">Đóng menu điều hướng</string>
+
+    <string name="default_user">Smart Facebook</string>
+    <string name="header_profile_pic">Ảnh cá nhân</string>
+
+    <string name="nav_notifications">Thông báo</string>
+    <string name="menu_news">Bảng tin</string>
+    <string name="menu_top_stories">Tin hàng đầu</string>
+    <string name="menu_most_recent">Tin gần đây</string>
+    <string name="menu_friendreq">Yêu cầu kết bạn</string>
+    <string name="menu_messages">Tin nhắn</string>
+    <string name="menu_messages_requests">Tin nhắn đang chờ</string>
+    <string name="menu_search">Tìm kiếm</string>
+    <string name="menu_mainmenu">Thiết lập Facebook</string>
+    <string name="menu_photo">Ảnh</string>
+    <string name="menu_trending">Xu hướng</string>
+    <string name="menu_online_friend">Bạn bè online</string>
+    <string name="menu_groups">Nhóm</string>
+    <string name="menu_pages">Trang</string>
+    <string name="menu_events">Sự kiện</string>
+    <string name="menu_on_this_day">Vào ngày này</string>
+    <string name="menu_saved">Đã lưu</string>
+    <string name="menu_me">Trang cá nhân</string>
+
+    <string name="menu_fblogin">Đăng nhập Facebook</string>
+    <string name="menu_jump_top">Về đầu trang</string>
+    <string name="menu_refresh">Tải lại</string>
+    <string name="menu_back">Trở lại</string>
+    <string name="menu_rate">Đánh giá ứng dụng</string>
+    <string name="menu_donate">Loại bỏ quảng cáo</string>
+    <string name="menu_forward">Quay lại</string>
+    <string name="menu_settings">Cài đặt</string>
+
+    <string name="fab_text">Đăng status</string>
+    <string name="fab_photo">Đăng ảnh</string>
+    <string name="fab_checkin">Check In</string>
+
+    <string name="context_save_image">Lưu ảnh</string>
+    <string name="context_share_image">Chia sẻ ảnh</string>
+    <string name="context_copy_image_link">Chép link ảnh</string>
+    <string name="context_share_link">Chia sẻ link</string>
+    <string name="context_copy_link">Chép link</string>
+
+    <string name="context_share_image_progress">Chia sẻ ảnh...</string>
+    <string name="content_copy_link_done">Chép vào bộ nhớ tạm</string>
+
+    <string name="notifications_setting_title">Thông báo</string>
+
+    <string name="notifications_enabled_title">Thông báo</string>
+    <string name="notifications_enabled_summary">Khi bạn chọn, bạn sẽ nhận được thông báo từ Facebook.</string>
+
+    <string name="notification_interval_title">Tần xuất thông báo đồng bộ</string>
+    <string name="notification_interval_summary">Xác định khoảng thời gian cập nhật thông báo</string>
+    <string-array name="notification_interval">
+        <item>Ngay lập tức (Tốn pin)</item>
+        <item>1 phút</item>
+        <item>3 phút</item>
+        <item>5 phút</item>
+        <item>10 phút</item>
+        <item>15 phút</item>
+        <item>30 phút</item>
+        <item>1 giờ</item>
+        <item>2 giờ</item>
+    </string-array>
+    <string-array name="notification_interval_values">
+        <item>15000</item>
+        <item>60000</item>
+        <item>180000</item>
+        <item>300000</item>
+        <item>600000</item>
+        <item>900000</item>
+        <item>1800000</item>
+        <item>3600000</item>
+        <item>7200000</item>
+    </string-array>
+
+    <string name="notifications_vibration_title">Rung</string>
+    <string name="notifications_vibration_summary">Khi bạn chọn, sẽ rung khi có thông báo mới.</string>
+
+    <string name="content_setting_title">Nội dung</string>
+
+    <string name="location_enabled_title">Truy cập vị trí</string>
+    <string name="location_enabled_summary">Cho phép Facebook lấy vị trí của bạn.</string>
+
+    <string name="most_recent_menu_title">Tin gần đây</string>
+    <string name="most_recent_menu_summary">Khi bạn chọn, Tin gần đây sẽ xuất hiện trong Menu.</string>
+
+    <string name="hide_editor_newsfeed_title">Ẩn chỉnh sửa trên bảng tin</string>
+    <string name="hide_editor_newsfeed_summary">Khi bạn chọn, sẽ ẩn chỉnh sửa trên bảng tin.</string>
+    <string name="hide_editor_newsfeed_snackbar">Tải lại trang để áp dụng thay đổi</string>
+
+    <string name="stop_images_title">Không tải ảnh</string>
+    <string name="stop_images_summary">Khi bạn chọn, sẽ không có ảnh - nhanh hơn và dữ liệu ít hơn.</string>
+
+    <string name="hide_sponsored_title">Ẩn "Sponsored" Content (ads)</string>
+    <string name="hide_sponsored_summary">Khi chọn sẽ ẩn "Sponsored" Content (ads) trên bảng tin.</string>
+
+    <string name="hide_birthdays_title">Ẩn sinh nhật</string>
+    <string name="hide_birthdays_summary">Khi bạn chọn, sẽ ẩn tin sinh nhật trên bảng tin.</string>
+
+    <string name="navigation_setting_title">Điều hướng</string>
+
+    <string name="hide_fab_on_scroll_title">Ẩn nút nổi khi cuộn</string>
+    <string name="hide_fab_on_scroll_summary">Ẩn nút nổi khi cuộn xuống</string>
+
+    <string name="messaging_enabled_title">Tin nhắn</string>
+    <string name="messaging_enabled_summary">Khi bạn chọn, Mục tin nhắn sẽ xuất hiện.</string>
+
+    <string name="back_button_enabled_title">Trở lại</string>
+    <string name="back_button_enabled_summary">Khi bạn chọn, nút Trở lại sẽ xuất hiện.</string>
+
+    <string name="jump_top_enabled_title">Về đầu trang</string>
+    <string name="jump_top_enabled_summary">Khi bạn chọn, nút Về đầu trang sẽ xuất hiện.</string>
+
+    <string name="login_button">Đăng nhập</string>
+    <string name="share_text">Chia sẻ</string>
+
+    <string name="not_logged_in">Bạn chưa đăng nhập</string>
+    <string name="error_login">Có lỗi, làm ơn thử đăng nhập lại</string>
+    <string name="error_super_wrong">Đã xảy ra lỗi</string>
+    <string name="error_facebook_noconnection">Không thể truy cập vào Facebook</string>
+    <string name="error_facebook_error">Đã xảy ra lỗi từ Facebook</string>
+
+    <string name="loading">Tải trang</string>
+
+    <string name="permission_denied">Quyền bị từ chối, không thể hoàn thành hành động</string>
+    <string name="you_have_one_message">Bạn có một tin nhắn.</string>
+    <string name="you_have_n_messages">Bạn có %d tin nhắn.</string>
+    <string name="menu_notes">Ghi chú</string>
+    <string name="menu_pokes">Chọc ghẹo</string>
+    <string name="hide_fab_btn">Ẩn nút nổi hành động</string>
+</resources>

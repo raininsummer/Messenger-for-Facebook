@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/group_fbnav"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_search"
+            android:icon="@drawable/ic_menu_search"
+            android:title="@string/menu_search" />
+        <item
+            android:id="@+id/nav_news"
+            android:icon="@drawable/ic_menu_news"
+            android:title="@string/menu_news" />
+        <item
+            android:id="@+id/nav_top_stories"
+            android:icon="@drawable/ic_menu_top_stories"
+            android:title="@string/menu_top_stories" />
+        <item
+            android:id="@+id/nav_most_recent"
+            android:icon="@drawable/ic_menu_most_recent"
+            android:title="@string/menu_most_recent" />
+        <item
+            android:id="@+id/nav_me"
+            android:icon="@drawable/ic_profile"
+            android:title="@string/menu_me" />
+        <item
+            android:id="@+id/nav_friendreq"
+            android:icon="@drawable/ic_menu_friendreq"
+            android:title="@string/menu_friendreq" />
+        <item
+            android:id="@+id/nav_online_friend"
+            android:icon="@drawable/qbar_messages"
+            android:title="@string/menu_online_friend" />
+        <item
+            android:id="@+id/nav_messages"
+            android:icon="@drawable/ic_menu_messages"
+            android:title="@string/menu_messages" />
+
+    </group>
+    <group
+        android:id="@+id/group_fbnav_1"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_photo"
+            android:icon="@drawable/ic_pictures"
+            android:title="@string/menu_photo" />
+        <item
+            android:id="@+id/nav_trending"
+            android:icon="@drawable/ic_trends"
+            android:title="@string/menu_trending" />
+
+        <item
+            android:id="@+id/nav_group"
+            android:icon="@drawable/ic_grouped"
+            android:title="@string/menu_groups" />
+        <item
+            android:id="@+id/nav_page"
+            android:icon="@drawable/ic_pages"
+            android:title="@string/menu_pages" />
+        <item
+            android:id="@+id/nav_mainmenu"
+            android:icon="@drawable/ic_menu_mainmenu"
+            android:title="@string/menu_mainmenu" />
+    </group>
+
+    <group
+        android:id="@+id/group_fbnav_2"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_events"
+            android:icon="@drawable/ic_event"
+            android:title="@string/menu_events" />
+        <item
+            android:id="@+id/nav_on_this_day"
+            android:icon="@drawable/ic_on_this_day"
+            android:title="@string/menu_on_this_day" />
+        <item
+            android:id="@+id/nav_save"
+            android:icon="@drawable/ic_saved"
+            android:title="@string/menu_saved" />
+        <item
+            android:id="@+id/nav_notes"
+            android:icon="@drawable/ic_notes"
+            android:title="@string/menu_notes" />
+        <item
+            android:id="@+id/nav_pokes"
+            android:icon="@drawable/ic_pokes"
+            android:title="@string/menu_pokes" />
+        <item
+            android:id="@+id/nav_messages_requests"
+            android:icon="@drawable/ic_menu_messages"
+            android:title="@string/menu_messages_requests" />
+
+    </group>
+    <group android:checkableBehavior="none">
+        <item
+            android:id="@+id/nav_fblogin"
+            android:icon="@drawable/ic_menu_fblogin"
+            android:title="@string/menu_fblogin" />
+        <item
+            android:id="@+id/nav_jump_top"
+            android:icon="@drawable/ic_menu_jump_top"
+            android:title="@string/menu_jump_top" />
+        <item
+            android:id="@+id/nav_back"
+            android:icon="@drawable/ic_menu_back"
+            android:title="@string/menu_back" />
+        <item
+            android:id="@+id/nav_reload"
+            android:icon="@drawable/ic_menu_refresh"
+            android:title="@string/menu_refresh" />
+        <item
+            android:id="@+id/nav_forward"
+            android:icon="@drawable/ic_menu_forward"
+            android:title="@string/menu_forward" />
+        <item
+            android:id="@+id/nav_rate"
+            android:icon="@drawable/ic_rate_n"
+            android:title="@string/menu_rate" />
+        <item
+            android:id="@+id/nav_donate"
+            android:icon="@drawable/ic_play_rate"
+            android:title="@string/menu_donate" />
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/ic_menu_share"
+            android:title="@string/menu_share" />
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/ic_menu_settings"
+            android:title="@string/menu_settings" />
+    </group>
+
+</menu>
