@@ -1,6 +1,6 @@
 # Messenger-for-Facebook
 Thanks!
-Credit:
+
 - https://github.com/creativetrendsapps/FolioforFacebook
 - https://github.com/mikepenz/Android-ActionItemBadge
 - https://github.com/square/picasso
